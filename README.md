@@ -23,7 +23,7 @@ Career Navigator 默认服务于中国高考、职业教育和升学选专业语
 Install directly from this public GitHub repo. Run these as two separate Claude Code messages; do not paste both lines into the prompt at once.
 
 ```text
-/plugin marketplace add https://github.com/yangyuxing/career-navigator
+/plugin marketplace add https://github.com/xuanganx/career-navigator
 ```
 
 After that finishes, run:
@@ -32,7 +32,7 @@ After that finishes, run:
 /plugin install career-navigator@career-navigator
 ```
 
-Use the HTTPS URL. The shorter `yangyuxing/career-navigator` form may make Claude Code try SSH, which can fail if GitHub is not already in your `known_hosts` file.
+Use the HTTPS URL. The shorter `xuanganx/career-navigator` form may make Claude Code try SSH, which can fail if GitHub is not already in your `known_hosts` file.
 
 Then use it by typing:
 
@@ -75,7 +75,7 @@ If installed manually as a standalone Claude skill, use:
 Agents such as Codex, Kimi Code, OpenCode, Gemini CLI, or other local coding assistants can use the core skill by reading:
 
 ```text
-https://github.com/yangyuxing/career-navigator
+https://github.com/xuanganx/career-navigator
 ```
 
 The agent should start from `SKILL.md` and load the bundled resources it needs:
