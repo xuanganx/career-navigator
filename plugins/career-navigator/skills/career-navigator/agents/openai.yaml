@@ -1,0 +1,6 @@
+interface:
+  display_name: "Career Navigator"
+  short_description: "从职业或兴趣校准真实方向并反推专业路线"
+  default_prompt: "Use $career-navigator when a student wants to turn a career interest or vague job idea into realistic career directions and college majors."
+policy:
+  allow_implicit_invocation: true

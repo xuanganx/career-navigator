@@ -1,0 +1,14 @@
+{
+  "name": "career-navigator",
+  "version": "1.0.0",
+  "description": "Career-to-major navigator for Chinese Gaokao students, with local occupation and major catalogs plus step-by-step route selection.",
+  "skills": "./skills/",
+  "author": {
+    "name": "yangyuxing",
+    "url": "https://github.com/yangyuxing"
+  },
+  "homepage": "https://github.com/yangyuxing/career-navigator",
+  "repository": "https://github.com/yangyuxing/career-navigator",
+  "license": "MIT",
+  "keywords": ["gaokao", "career", "majors", "education", "china", "college"]
+}
